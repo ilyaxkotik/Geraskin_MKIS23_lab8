@@ -22,3 +22,7 @@
   flex-basis: 50%
   }  
 }
+i {
+    font-size: 100px;
+    padding-left: 25px;
+}
